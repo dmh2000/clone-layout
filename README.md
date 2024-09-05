@@ -1,4 +1,4 @@
-# Clone A Web Page Layout
+# Clone A Web Page Layout With AI
 
 If you need a landing page but you don't have any good ideas, find an existing website that you like and ~~steal~~ clone its layout. Of course, you could just download the files and hack them yourself, but there will be a lot of stuff in there you don't want. Instead, use an AI tool to copy its layout and use that.
 
