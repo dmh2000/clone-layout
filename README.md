@@ -1,6 +1,8 @@
-# Clone A Web Page Layout With AI
+# Clone A Web Page Layout With Claude and Aider
 
 If you need a landing page but you don't have any good ideas, find an existing website that you like and ~~steal~~ clone its layout. Of course, you could just download the files and hack them yourself, but there will be a lot of stuff in there you don't want. Instead, use an AI tool to copy its layout and use that.
+
+This is a very simple project, but it did one thing I didn't expect that was impressive. See the results below.
 
 In this demo, I'm going to use the following:
 
@@ -8,7 +10,6 @@ In this demo, I'm going to use the following:
   - I like Aider because it runs in a separate terminal so it doesn't take up space in VSCode. And its easier to restart if I need to without disturbing the editor. And also, because it works great. 
   - You could do all this with any of the decent code gen front end, like [Claude-Dev](https://github.com/saoudrizwan/claude-dev) or [Zed-AI](https://zed.dev/blog/zed-ai). 
 - [Anthropic Claude-3.5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet?ref=hjortur.blog) as the AI LLM. 
-  - It could be any decent code gen friendly LLM as long as your ai gen front end supports it.
 - Code Editor/IDE
   - This process **DOES NOT REQUIRE EDITING ANY CODE YOURSELF**. But its nice to be able to look at the code.
   - you can use any editor. in this demo I don't rely on extensions or built in app features. 
