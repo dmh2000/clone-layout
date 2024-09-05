@@ -77,7 +77,7 @@ You will get a short python file. Aider might ask if you want to run it. Say yes
  ### Now See The Magic
 
  - Open a browser to where the python server is running.
- - In my case it almost duplicated the layout exactly.  It didn't try to copy some of the graphics. Most important it figured out some of the anchor links and buttons that were on the original web page. I was 'WOW' the first time I did this.
+ - In my case it almost duplicated the layout exactly.  It didn't try to copy some of the graphics. **Most important it figured out some of the anchor links and buttons that were on the original web page. I was 'WOW' the first time I did this.**
 
 ### Update The Page
 
